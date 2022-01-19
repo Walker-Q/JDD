@@ -12,7 +12,7 @@ config = {
     #为了方便二次开发，此处可添加多个用户信息，格式[{'name':'名称1','cookie':'京豆cookie'}, {'name':'名称2','cookie':'京豆cookie'}]
     'userInfo': [
         {
-            "name": "FSHOW"",#账号标识名称，可任意填写
+            "name": "FSHOW",#账号标识名称，可任意填写
             "cookie": cookie
         }
     ],
